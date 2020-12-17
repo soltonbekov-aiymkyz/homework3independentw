@@ -386,3 +386,11 @@ h6{
     margin-bottom: 3rem;
     text-align: center;
 }
+
+.mb-1{
+    color: gray;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+    
