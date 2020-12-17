@@ -403,3 +403,11 @@ h6{
     margin-bottom: 1rem;
     list-style: none;
 }
+
+.full{
+    display: inline-block;
+    text-align: center;
+    margin-right: .5rem;
+    border-color: #f8f9fa;
+     background-color: #f8f9fa;
+}
