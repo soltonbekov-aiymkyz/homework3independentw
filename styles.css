@@ -366,3 +366,16 @@ h6{
         margin-top: 10px;
     }
     
+    
+    .w-100{
+        width: 100%;
+    }
+    .btn-lg{
+        padding:.5rem 1rem ;
+        font-size: 1.25rem;
+        border-radius: .3rem;
+        background-color:#0d6efd;
+        
+        border-color: #0d6efd;
+    }
+    
