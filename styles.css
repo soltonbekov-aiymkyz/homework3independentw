@@ -207,3 +207,14 @@ h6{
     .bform{
     max-width: 618px;
     }
+    
+    .rowg-3{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top:5px ;
+        padding-left: 5px;
+        padding-right: 5px;
+    
+        width: 100%;
+    
+    }
