@@ -1,8 +1,7 @@
 *{box-sizing: border-box;}
 
 body{
-    
+    margin: 0 auto;
     background-color: #f8f9fa;
     line-height: 1.5;
-    
 }
