@@ -379,3 +379,10 @@ h6{
         border-color: #0d6efd;
     }
     
+
+.my-5{
+    padding-top: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
