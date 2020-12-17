@@ -10,3 +10,7 @@ body{
     max-width: 1000px;
     margin: 0 auto;
 }
+
+.textcenter{
+    padding: 3rem 0;
+}
