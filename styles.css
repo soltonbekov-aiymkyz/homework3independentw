@@ -239,3 +239,8 @@ h6{
         background-color: #fff;
         border: 1px solid #ced4da;
     }
+    
+    .col-12{
+        width: 100%;
+    }
+    
