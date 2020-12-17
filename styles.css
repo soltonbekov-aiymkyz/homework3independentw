@@ -114,3 +114,13 @@ h6{
     color: #6c757d;
     font-size: .875rem;
 }
+
+
+.promocode{
+    border-top-width: 0;
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    border: 1px solid rgb(0,0,0, .125);
+}
