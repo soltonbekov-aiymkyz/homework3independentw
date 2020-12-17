@@ -291,3 +291,8 @@ h6{
     font-weight: 500;
     line-height: 1.2;
 }
+
+.my-3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
