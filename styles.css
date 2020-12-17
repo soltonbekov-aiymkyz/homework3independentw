@@ -201,4 +201,9 @@ h6{
     padding: 0 5px;
     margin-top: 5px;
     }
- 
+    .billingaddress{
+        margin-bottom: 1rem;
+    }
+    .bform{
+    max-width: 618px;
+    }
