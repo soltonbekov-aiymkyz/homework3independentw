@@ -18,3 +18,10 @@ body{
 main {
     display: block;
 }
+
+.logo{
+    margin-bottom: 1.5rem;
+    margin-right: auto;
+    margin-left: auto;
+     display: block;
+}
