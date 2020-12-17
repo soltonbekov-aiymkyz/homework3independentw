@@ -48,5 +48,5 @@ p{
 
 .rowg-3{
     display: flex;
-    
+    flex-wrap: wrap;
 }
