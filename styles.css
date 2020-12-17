@@ -354,3 +354,9 @@ h6{
 .text-muted{
     color: #6c757d;
 }
+
+.rowgy-3{
+    display: flex;
+    flex-wrap: wrap;
+    }
+    
