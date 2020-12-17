@@ -96,3 +96,8 @@ li{
     line-height: 1.25;
     background-color: #fff;
 }
+
+div{
+    display: block;
+    line-height: 1.25;
+}
