@@ -170,3 +170,16 @@ h6{
     align-items: stretch;
     width: 100%;
 }
+
+.formcontrol{
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
