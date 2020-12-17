@@ -223,3 +223,7 @@ h6{
         padding-left: 10px;
         padding-right: 10px;
      }
+     .form-label{
+         margin-bottom: .5rem;
+         display: inline-block;
+     }
