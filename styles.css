@@ -394,3 +394,12 @@ h6{
     font-family: sans-serif;
 }
     
+.ful{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    list-style: none;
+}
