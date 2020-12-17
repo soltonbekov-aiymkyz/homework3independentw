@@ -14,3 +14,7 @@ body{
 .textcenter{
     padding: 3rem 0;
 }
+
+main {
+    display: block;
+}
