@@ -303,3 +303,10 @@ h6{
     padding-left: 1.5em;
     margin-bottom: .125rem
 }
+
+.form-check-input{
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    }
+  
