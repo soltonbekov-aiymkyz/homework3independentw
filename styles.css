@@ -309,4 +309,24 @@ h6{
     background-color: blue;
     color: white;
     }
-  
+    .col-md-6{
+        margin-top: 10px;
+        padding-left:  10px;
+        padding-right: 10px;
+    }
+    .form-label{
+        margin-bottom: .5rem;
+        display: inline-block;
+    }
+    .form-control{
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        border: 1px solid #ced4da;
+        border-radius: .25rem;
+    }
