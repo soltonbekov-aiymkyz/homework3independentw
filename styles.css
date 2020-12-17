@@ -360,3 +360,9 @@ h6{
     flex-wrap: wrap;
     }
     
+    .col-md-7{
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-top: 10px;
+    }
+    
