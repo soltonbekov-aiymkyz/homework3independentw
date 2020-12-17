@@ -253,3 +253,16 @@ h6{
         margin-bottom: .5rem;
         display: inline-block;
     }
+    
+    .form-select{
+        padding: .375rem 1.75rem .375rem .75rem;
+        display: block;
+        width: 100%;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        border: 1px solid #ced4da;
+        border-radius: .25rem;
+    }
